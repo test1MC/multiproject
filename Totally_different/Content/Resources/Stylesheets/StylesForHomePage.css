@@ -297,7 +297,7 @@ div.footer > div.outer-row
 	padding: 0;
 }
 
- .footer-logo
+.footer-logo
 {
 	max-width: 100%;
 }
@@ -331,8 +331,8 @@ MadCap|searchBarProxy
 	margin-right: auto;
 	margin-top: 0;
 	margin-bottom: 0;
-	float: none;
 	width: 50%;
+	float: none;
 }
 
 MadCap|topicToolbarProxy
@@ -776,7 +776,7 @@ div.HomeVideoSection > div:nth-child(3)
 	{
 		width: 100%;
 	}
-	
+
 	.left-content
 	{
 		margin-bottom: 60px;
@@ -905,3 +905,4 @@ div.HomeVideoSection > div:nth-child(3)
 		margin-left: 0%;
 	}
 }
+
